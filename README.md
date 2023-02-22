@@ -61,29 +61,28 @@ let planet8 = "Venus"
 
 ```
 
-2. What is the index of Mars?
+2. What is the index of **Mars**?
 
-3. Print Mars to the command line from the `planet` array.
+3. Print **Mars** to the command line from the `planet` array.
 
-4. Print Saturn to the command line from the `planet` array.
+4. Print **Saturn** to the command line from the `planet` array.
 
-5. Print Venus to the command line from the `planet` array.
+5. Print **Venus** to the command line from the `planet` array.
 
 6. Print out how many elements are in the `planet` array.
 
-7. Loop through the `planet` array using a for loop and print the name of each planet
+7. Loop through the `planet` array using a for loop and print the name of each planet.
 
 8. Create a while loop that iterates through each of the items in the `planet` array
-and changes them to lowercase .
+and changes each element to lowercase.
 
-9. Add Pluto to the planet list.
-
+9. Add **Pluto** to the `planet` array.
 
 10. Loop through each planet in the `planet` array and print them on the command line.
 
-11. Since Pluto isn't really a planet, delete it from the `planet` array
+11. Since **Pluto** isn't really a planet, delete it from the `planet` array.
 
-12. Loop through the `planet` array and print the updated values (Pluto removed)
+12. Loop through the `planet` array and print the updated values (Pluto removed).
 
 13. Create a new array called `nums` with the following values
 
@@ -91,13 +90,13 @@ and changes them to lowercase .
 6, 8, 10, 12, 14, 16
 ```
 
-14. Loop through `nums`  and print each number to the command line 
+14. Loop through `nums`  and print each number to the command line. 
 
-15. Add 99 to the end of the `nums` array
+15. Add 99 to the end of the `nums` array.
 
-16. Add 23 to the beginning of the `nums` array 
+16. Add 23 to the beginning of the `nums` array. 
 
-17. Loop through `nums` and multiply each number by 5 
+17. Loop through `nums` and multiply each number by 5. 
 
 18. Sum all of the elements of the `nums` array.
 
