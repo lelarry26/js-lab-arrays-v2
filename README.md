@@ -1,12 +1,15 @@
 # JavaScript Array Lab Exercises
 
-In this lab, you are going to practice the basics of writing **for loops and while loops**, using JavaScript as a programming language, by completing problems that will challenge your knowledge of core princples. 
+When you need to keep track of many values of the same kind (e.g, book titles, favorite movies, groceries to buy), it makes more sense to create a single variable that can hold multiple values.  In this homework, you are going to practice the basics of creating **arrays**, using JavaScript as a programming language, by completing problems that will challenge your knowledge of core princples. 
 
 ## Objectives 
 
-- constructing a `for` loop
-- constructin a `while` loop
-- What is the difference between a `for` loop and a `while` loop
+- Practice writing arrays
+- Use indexing to access individual locations in an array
+- Update an array
+- Delete an element from an array
+- Iterate through arrays using for-loops
+- Iterate through arrays using while-loops
 
 
 ## Instructions 
