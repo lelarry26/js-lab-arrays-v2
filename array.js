@@ -1,6 +1,6 @@
 //1. Create a new array called `planets` that holds all of the names of the planets
 //       I used the below line uncommented for exercises 1 - 12
-//let planet = ["Earth", "Jupiter", "Neptune", "Mars", "Saturn", "Mercury", "Uranus", "Venus"]
+//let planet = ["Earth", "Jupiter", "Neptune", "Mars", "Saturn", "Mercury", "Uranus", "Venus"];
 //console.log(planet);
 
 //2. What is the index of **Mars**? 
@@ -17,20 +17,23 @@
 //console.log(planet[7]);
 
 //6. Print out how many elements are in the `planet` array.
-//console.log (planet.length)
+//console.log (planet.length);
 
 //7. Loop through the `planet` array using a for loop and print the name of each planet.
-// for (let planets = 0; planets < planet.length; planets++)
-//    console.log(planet[planets])
-
+// for (let i = 0; i < planet.length; i++){
+//    console.log(planet[i]);
+//}
    
 //8. Create a while loop that iterates through each of the items in the `planet` array
 //and changes each element to lowercase.
-// let lower = planet.map(planet => planet.toLowerCase())
-//    while (planet <= planet.length){
-//    planet++
+// let planet = ["Earth", "Jupiter", "Neptune", "Mars", "Saturn", "Mercury", "Uranus", "Venus"]
+// let i = 0;
+
+// while (i < planet.length){
+//    console.log(planet[i].toLowerCase());
+//    i++;
 // }
-//console.log(lower)
+
 //This was the one I was gonna ask about, is the map for lowercase the right way to do it?
 
 // //9. Add **Pluto** to the `planet` array.
@@ -72,14 +75,19 @@
 // let nums = [6, 8, 10, 12, 14, 16]
 // nums.unshift(23)
 // nums.push(99);
-//    for (let values = 0; values < nums.length; values++)
-//    console.log(nums[values]*5)
+//    for (let i = 0; i < nums.length; i++)
+//    console.log(nums[i]*5)
 
 //18. Sum all of the elements of the `nums` array.
-// let nums = [6, 8, 10, 12, 14, 16]
-// nums.unshift(23)
-// nums.push(99)
-// total = 0;
-//    for (let values = 0; values < nums.length; values++)
-//    console.log(nums[values]*5)
-// I gave up on this one dude. 
+
+// let nums = [6, 8, 10, 12, 14, 16];
+// nums.push(23);
+// nums.push(99);
+// let total = 0;
+
+// for (let i = 0; i < nums.length; i++){
+//    total = (total + nums[i]*5);
+// }
+
+// console.log(total);
+
